@@ -1,5 +1,8 @@
 # Daily Learning
 ## Morning Planning
+
+ <img src="https://octodex.github.com/images/cloud.jpg" alt="Cloudy morning" width="100" align="right"/>
+ 
 - [ ] Check out the [githup blog](https://github.blog/) for topic ideas.
 - [ ] Learn about [GitHup Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
